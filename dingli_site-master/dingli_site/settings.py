@@ -93,9 +93,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'dingli_site',
-        'USER': 'root',
-        'PASSWORD': 'root',
-        'HOST': '120.77.153.41',
+        'USER': '1111',
+        'PASSWORD': '1111',
+        'HOST': '0.0.0.0',
         #'HOST': 'localhost',
         'PORT': '3306',
     }
